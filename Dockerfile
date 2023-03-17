@@ -48,4 +48,3 @@ USER www
 EXPOSE 9000
 CMD ["php-fpm"]
 
-RUN php artisan config:clear
