@@ -5,6 +5,7 @@
         <form>
                 <input type='text' placeholder='Email'>
                 <input type='text' placeholder='Password'>
+                <input type='text' placeholder='Password'>
                 <button action='submit' type='submit'></button>
         </form>
 @endsection
